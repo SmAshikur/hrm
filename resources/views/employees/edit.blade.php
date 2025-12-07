@@ -113,7 +113,7 @@
                             @endforeach
                         </div>
                         <button type="button" id="addSkill"
-                            class="mt-2 px-3 py-1 bg-indigo-600 text-white rounded hover:bg-indigo-700 transition">
+                            class="mt-2 px-3 py-1 bg-indigo-600 text-dark rounded hover:bg-indigo-700 transition">
                             + Add Skill
                         </button>
                     </div>
